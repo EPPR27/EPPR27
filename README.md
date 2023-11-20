@@ -123,16 +123,6 @@
 
 ###
 
-<h3 align="left">🔥 Mi Activity:</h3>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/EPPR27/EPPR27/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://gifdb.com/images/high/programming-typing-cat-meme-tjogs4o3p6l1vu0w.webp"  />
 </div>
